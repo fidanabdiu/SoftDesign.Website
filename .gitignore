@@ -1,0 +1,12 @@
+# Local preview / staging output
+_site/
+
+# Editor and operating system metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
